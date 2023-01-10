@@ -1,7 +1,7 @@
 # HeroWarsAutoplay
 Scripts for auto-playing portions of Hero Wars
 
-Hello and welcome! I've been playing around with some python scripts that can autoplay. I've been using them for the past year to race through the tower, and dungeon portions. 
+Hello and welcome! I've been playing around with some python scripts so that my computer can grind through Hero Wars while I make my coffee. I've been using them for the past year to race through the tower, and dungeon portions without my involvement.
 
 
 
