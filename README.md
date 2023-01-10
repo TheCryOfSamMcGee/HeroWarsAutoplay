@@ -11,9 +11,11 @@ Donations:
 I do have a full-time job that pays reasonably well, but my ex-wife left and tried to take our toddler son (and cash along the way). I made sure she failed, but I don't have much free time or cash now from the legal battle, so if you like these scripts, please feel free to donate! Thank you again for your support.
 
 
-[![](https://www.paypalobjects.com/en_US/i/btn/btn_donateCC_LG.gif)](https://www.paypal.com/donate/?business=CGHXKUED9CJHW&no_recurring=0&currency_code=USD)
+| Paypal | CashApp |
+| ------ | ------- |
+|[![](https://www.paypalobjects.com/en_US/i/btn/btn_donateCC_LG.gif)](https://www.paypal.com/donate/?business=CGHXKUED9CJHW&no_recurring=0&currency_code=USD)
+![image](https://user-images.githubusercontent.com/122340776/211473862-30af57fa-7b5e-46f6-a020-9dcfb3334695.png) |![image](https://user-images.githubusercontent.com/122340776/211480358-098f34b7-1b21-42cb-a174-177ef20236df.png)|
 
-![image](https://user-images.githubusercontent.com/122340776/211473862-30af57fa-7b5e-46f6-a020-9dcfb3334695.png)
 
 
 Feedback:
