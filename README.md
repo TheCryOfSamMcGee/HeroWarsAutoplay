@@ -8,7 +8,7 @@ Hello and welcome! I've been playing around with some python scripts so that my 
 
 Donations:
 
-I do have a full-time job that pays reasonably well, but my ex-wife left and tried to take our toddler son (and cash along the way). I made sure she failed, but I don't have much free time or cash now from the legal battle, so if you like these scripts, please feel free to donate! Thank you again for your support.
+I do have a full-time job, but my ex-wife left and tried to take our toddler son too. I made sure she failed, but I don't have much free time or cash now from the legal battle, so if you like these scripts, please feel free to donate! Thank you again for your support.
 
 
 | Paypal | CashApp |
