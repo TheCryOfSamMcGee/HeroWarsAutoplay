@@ -29,6 +29,28 @@ from struct import calcsize, pack
 import pyautogui
 gdi32 = windll.gdi32
 
+#################################################################
+
+###############  Set up global variables that you need for this script. 
+###############
+
+## Move the open directory of the pythong script to wherever you have this saved. 
+os.chdir('C:\\Users\\JohnDoe\\Documents\\FBPython')
+
+pytesseract.pytesseract.tesseract_cmd = r"C:\Program Files\Tesseract-OCR\tesseract.exe"
+
+
+#This variable is the number of seconds that the program should wait when switching locations within Hero wars.
+setLoadtime = 10
+
+
+
+
+
+####################################
+
+
+
 # Win32 functions
 CreateDC = gdi32.CreateDCA
 CreateCompatibleDC = gdi32.CreateCompatibleDC
@@ -63,10 +85,6 @@ user32 = windll.user32
 #this process makes the program aware of your display
 #scaling, that way it can control for it. 
 user32.SetProcessDPIAware()
-
-os.chdir('C:\\Users\\mppeb\\Documents\\FBPython')
-
-pytesseract.pytesseract.tesseract_cmd = r"C:\Program Files\Tesseract-OCR\tesseract.exe"
 
 ### Function to extract text
 def genRegion(loc1, loc2):
@@ -889,7 +907,7 @@ while done == 'n':
         tower = (int(0.861*width),int(0.205*height))
         mousePos(tower) #Enter said tower
         leftClick()
-        time.sleep(4)
+        time.sleep(setLoadTime/2)
         clearTower()
 
         
@@ -897,7 +915,7 @@ while done == 'n':
         minimizeScreen()
         mousePos(guild) #Get to guild
         leftClick()
-        time.sleep(10)
+        time.sleep(setLoadTime)
 
         mousePos((int(0.617*width), int(0.675*height)))
         leftClick()
@@ -944,7 +962,7 @@ while done == 'n':
         guild = (int(0.058*width), int(0.851*height))
         mousePos(guild) #Get to guild
         leftClick()
-        time.sleep(10)
+        time.sleep(setLoadTime)
 
         titanValley = (int(0.324*width), int(0.33*height))
         raidTitanValley(titanValley)
