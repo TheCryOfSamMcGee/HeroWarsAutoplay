@@ -39,7 +39,7 @@ setLoadtime = 10
 
 
 
-### Current limitations:
+## Current limitations:
 - Right now, the script is designed for people who are level 130, and doesn't work if you can't skip the battles in the tower. 
 - It only runs on Windows, because I do not have a Mac to play around with, and I cannot afford one.
 - There isn't a way to update the load
