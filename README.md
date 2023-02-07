@@ -5,6 +5,9 @@ Hello and welcome! I've been playing around with some python scripts so that my 
 
 Specifically, I've seen the script get confused, think it was moving through the tower during the loading screen, and accidentally exit the tower, but still think it was moving through the tower. When it went to click on the next chest in the tower, it would click on the hero's chest and spend diamonds to open it. So yeah, adjust the loading time. 
 
+<br />
+<br />
+
 ## Running the script
 
 The script is designed to navigate Hero Wars from the full screen view. From the main page of Hero Wars, look at the bottom right corner and you'll see two green buttons. The left one will make Hero Wars run full screen. From there, the script will figure everything else out. Just follow the prompts. 
@@ -12,7 +15,9 @@ The script is designed to navigate Hero Wars from the full screen view. From the
 Just make sure to run the script starting from the Hero Wars home page opened to the full screen view. 
 
 
-
+<br />
+<br />
+<br />
 
 
 ## Installation
@@ -29,7 +34,8 @@ The other variable you can set at the beginning is setLoadTime:
 setLoadtime = 10
 
 
-
+<br />
+<br />
 
 
 
@@ -41,7 +47,9 @@ setLoadtime = 10
 If you have questions, feel free to post it in the issues tab. If you want to see an improvement, mark your post an enhancement. 
 
 
-
+<br />
+<br />
+<br />
 
 
 
