@@ -5,7 +5,7 @@ Hello and welcome! I've been playing around with some python scripts so that my 
 
 Specifically, I've seen the script get confused, think it was moving through the tower during the loading screen, and accidentally exit the tower, but still think it was moving through the tower. When it went to click on the next chest in the tower, it would click on the hero's chest and spend diamonds to open it. So yeah, adjust the loading time. 
 
-### Running the script
+## Running the script
 
 The script is designed to navigate Hero Wars from the full screen view. From the main page of Hero Wars, look at the bottom right corner and you'll see two green buttons. The left one will make Hero Wars run full screen. From there, the script will figure everything else out. Just follow the prompts. 
 
@@ -13,13 +13,13 @@ Just make sure to run the script starting from the Hero Wars home page opened to
 
 
 
-### Installation
+## Installation
 If you want to install and run this script, you need to install python with all the libraries imported at the beginning of the script, as well as pytesseract Once Pytesseract is installed, then tell the script where to find it. This is found at the beginning of the script and looks like this. 
 
-## set your own directory
+#### set your own directory
 os.chdir('C:\\Users\\JohnDoe\\Documents\\FBPython')
 
-#Path to pytesseract install
+####Path to pytesseract install
 pytesseract.pytesseract.tesseract_cmd = r"C:\Program Files\Tesseract-OCR\tesseract.exe"
 
 The other variable you can set at the beginning is setLoadTime:
@@ -27,14 +27,14 @@ The other variable you can set at the beginning is setLoadTime:
 setLoadtime = 1
 
 
-#### Current limitations:
+### Current limitations:
 - Right now, the script is designed for people who are level 130, and doesn't work if you can't skip the battles in the tower. 
 - It only runs on Windows, because I do not have a Mac to play around with, and I cannot afford one.
 - There isn't a way to update the load
 
 If you have questions, feel free to post it in the issues tab. If you want to see an improvement, mark your post an enhancement. 
 
-#### Donations:
+## Donations:
 
 I do have a full-time job, but my ex-wife left and tried to take our toddler son too. I made sure she failed, but I don't have much free time or cash now from the legal battle, so if you like these scripts, please feel free to donate! Thank you again for your support.
 
