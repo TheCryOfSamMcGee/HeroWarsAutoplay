@@ -13,6 +13,8 @@ Just make sure to run the script starting from the Hero Wars home page opened to
 
 
 
+
+
 ## Installation
 If you want to install and run this script, you need to install python with all the libraries imported at the beginning of the script, as well as pytesseract Once Pytesseract is installed, then tell the script where to find it. This is found at the beginning of the script and looks like this. 
 
@@ -24,7 +26,11 @@ pytesseract.pytesseract.tesseract_cmd = r"C:\Program Files\Tesseract-OCR\tessera
 
 The other variable you can set at the beginning is setLoadTime:
 #This variable is the number of seconds that the program should wait when switching locations within Hero wars. This is important because slower internets can slow down the load times, and mess up the script. 
-setLoadtime = 1
+setLoadtime = 10
+
+
+
+
 
 
 ### Current limitations:
@@ -33,6 +39,11 @@ setLoadtime = 1
 - There isn't a way to update the load
 
 If you have questions, feel free to post it in the issues tab. If you want to see an improvement, mark your post an enhancement. 
+
+
+
+
+
 
 ## Donations:
 
