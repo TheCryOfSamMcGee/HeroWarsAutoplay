@@ -41,7 +41,7 @@ pytesseract.pytesseract.tesseract_cmd = r"C:\Program Files\Tesseract-OCR\tessera
 
 
 #This variable is the number of seconds that the program should wait when switching locations within Hero wars.
-setLoadtime = 10
+setLoadTime = 10
 
 
 
