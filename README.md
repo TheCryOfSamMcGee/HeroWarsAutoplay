@@ -23,19 +23,6 @@ Just make sure to run the script starting from the Hero Wars home page opened to
 ## Installation
 If you want to install and run this script, you need to install python with all the libraries. See the [Installation page](https://github.com/TheCryOfSamMcGee/HeroWarsAutoplay/blob/main/Installation.md) for instructions.
 
-
-
-#### set your own directory
-os.chdir('C:\\Users\\JohnDoe\\Documents\\FBPython')
-
-####Path to pytesseract install
-pytesseract.pytesseract.tesseract_cmd = r"C:\Program Files\Tesseract-OCR\tesseract.exe"
-
-The other variable you can set at the beginning is setLoadTime:
-#This variable is the number of seconds that the program should wait when switching locations within Hero wars. This is important because slower internets can slow down the load times, and mess up the script. 
-setLoadtime = 10
-
-
 <br />
 <br />
 
