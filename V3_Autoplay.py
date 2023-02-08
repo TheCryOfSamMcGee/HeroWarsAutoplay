@@ -31,17 +31,25 @@ gdi32 = windll.gdi32
 
 #################################################################
 
-###############  Set up global variables that you need for this script. 
-###############
+###############  Code set up secttion
 
-## Move the open directory of the pythong script to wherever you have this saved. 
-os.chdir('C:\\Users\\JohnDoe\\Documents\\FBPython')
+################################################################
 
+## set your own directory
+os.chdir('C:\\Users\\mppeb\\Documents\\FBPython')
+
+
+## example: Your PC username is MarkAnthony, and you saved the script directly in the Documents folder. So you need to change the script to say
+# os.chdir('C:\\Users\\MarkAnthony\\Documents')
+
+
+####Path to tesseract installation folder.
 pytesseract.pytesseract.tesseract_cmd = r"C:\Program Files\Tesseract-OCR\tesseract.exe"
 
 
 #This variable is the number of seconds that the program should wait when switching locations within Hero wars.
 setLoadTime = 10
+
 
 
 
