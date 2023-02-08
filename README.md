@@ -16,6 +16,8 @@ The script is designed to navigate Hero Wars from the full screen view. From the
 
 Just make sure to run the script starting from the Hero Wars home page opened to the full screen view. 
 
+[![Hero Wars Autoplay](https://img.youtube.com/vi/ZUdUYYxoTFM/0.jpg)]([http://www.youtube.com/watch?v=ZUdUYYxoTFM](https://youtu.be/ZUdUYYxoTFM)
+
 <br />
 <br />
 <br />
