@@ -36,7 +36,7 @@ gdi32 = windll.gdi32
 ################################################################
 
 ## set your own directory
-os.chdir('C:\\Users\\mppeb\\Documents\\FBPython')
+os.chdir('C:\\Users\\JohnDoe\\Documents\\FBPython')
 
 
 ## example: Your PC username is MarkAnthony, and you saved the script directly in the Documents folder. So you need to change the script to say
