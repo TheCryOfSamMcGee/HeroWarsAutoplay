@@ -30,7 +30,7 @@ First, make sure you tell the script where you have the script saved. You should
                 
                 #################################################################
 
-                ###############  Code set up secttion
+                ###############  Code set up section
 
                 ################################################################
                 
