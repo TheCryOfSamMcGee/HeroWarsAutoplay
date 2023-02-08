@@ -1,5 +1,5 @@
-# HeroWarsAutoplay
-Scripts for auto-playing portions of Hero Wars
+# Hero Wars Autoplay Script
+Scripts that let the computer grind through portions of Hero Wars. 
 
 Hello and welcome! I've been playing around with some python scripts so that my computer can grind through Hero Wars while I make my coffee. I've been using them for the past year to race through the tower, and dungeon portions without my involvement. That being said, this script works by controlling the mouse on your computer, and if you have pop-ups or other unusual stuff screen-wise, it will click on those, so use it at your own risk. If you want the script to stop quickly, just move your mouse - it'll detect that and pause. This script is meant to be used at your own risk, so be smart. If you are worried about it accidentally spending diamonds, then monitor it. I've added a setting to account for slower internet (see below), and if your internet is too slow, the script can mess up and spend diamonds accidentally.
 
