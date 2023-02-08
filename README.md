@@ -21,7 +21,9 @@ Just make sure to run the script starting from the Hero Wars home page opened to
 
 
 ## Installation
-If you want to install and run this script, you need to install python with all the libraries imported at the beginning of the script, as well as pytesseract Once Pytesseract is installed, then tell the script where to find it. This is found at the beginning of the script and looks like this. 
+If you want to install and run this script, you need to install python with all the libraries. See the [Installation page](https://github.com/TheCryOfSamMcGee/HeroWarsAutoplay/blob/main/Installation.md) for instructions.
+
+
 
 #### set your own directory
 os.chdir('C:\\Users\\JohnDoe\\Documents\\FBPython')
