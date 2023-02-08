@@ -22,7 +22,7 @@ Just make sure to run the script starting from the Hero Wars home page opened to
 
 
 ## Installation
-If you want to install and run this script, you need to install python with all the libraries. See the [Installation page](https://github.com/TheCryOfSamMcGee/HeroWarsAutoplay/blob/main/Installation.md) for instructions.
+If you want to install and run this script, you need to install python and a couple python libraries. See the [Installation page](https://github.com/TheCryOfSamMcGee/HeroWarsAutoplay/blob/main/Installation.md) for instructions.
 
 <br />
 <br />
