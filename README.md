@@ -52,7 +52,7 @@ The only time I've seen the script get confused is when the loading screen for t
 
 ## Donations:
 
-I do have a full-time job, but my ex-wife left me and tried to take full custody of our son. I made sure she failed, but I'm strapped for time and cash, so if you like these scripts, please feel free to donate! If no one donates, I'll probably stop developing this, and focus on other side projects instead. 
+I do have a full-time job, but I'm also a single father of a toddler. If you like these scripts, please feel free to donate! If no one donates, I'll probably stop developing this, and focus on other side projects instead. 
 
 
 | Paypal | CashApp |
