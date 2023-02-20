@@ -7,6 +7,8 @@ Hello and welcome! I've been playing around with some python scripts so that my 
 
 <br /> Lastly, if you have a Mac, I don't have a script for you, sorry. Theoretically, if I had a Mac, it would be easy to create the same script for Apple computers, but I can't afford one. 
 
+<br / > Feel free to join the [discussion here](https://github.com/TheCryOfSamMcGee/HeroWarsAutoplay/discussions)
+
 <br />
 <br />
 
